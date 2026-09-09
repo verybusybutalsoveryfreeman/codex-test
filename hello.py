@@ -1,1 +1,2 @@
-print("hello codex")
+name = input()
+print(f"こんにちは、{name}さん")
